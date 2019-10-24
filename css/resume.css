@@ -195,3 +195,9 @@ a:hover, a:focus, a:active {
 .btn-primary {
   background-color: #64a19d;
 }
+div.text-center .text-uppercase{
+color: #BD5D38;
+position: relative;
+display: block;
+padding: 19.2%;
+}
